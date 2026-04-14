@@ -1,0 +1,109 @@
+*{
+    font-family: sans-serif;
+    color: white;
+}
+
+body{
+    background-color: rgb(37, 37, 37);
+    margin: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.cuadro1{
+    background-color: rgb(124, 15, 202) ;
+    width: 1500px;
+    height: 1780px;
+    box-shadow: 0 2px 15px black;
+    padding: 20px;
+}
+
+
+.cuadro2{
+    background-color: rgb(124, 15, 202);
+    width: 1430px;
+    height: 500px;
+    border-radius: 2%;
+    border: 15px solid #cb81ff;
+    box-shadow: 12px 13px 1px rgb(73, 11, 118);
+    padding: 20px;
+    font-size: 22px;
+
+}
+
+.circulo{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    left: 1200px;
+    top: 30px;
+    border: 15px solid #cb81ff;
+    overflow: hidden;
+    
+}
+
+
+.cuadro3{
+    background-color: rgb(124, 15, 202);
+    width: 700px;
+    height: 500px;
+    border-radius: 2%;
+    border: 15px solid #cb81ff;
+    box-shadow: 12px 13px 1px rgb(73, 11, 118);
+    margin-top: 20px;
+    font-size: 22px;
+
+}
+
+.cuadro5{
+    background-color: rgb(124, 15, 202);
+    width: 700px;
+    height: 500px;
+    border-radius: 2%;
+    border: 15px solid #cb81ff;
+    box-shadow: 12px 13px 1px rgb(73, 11, 118);
+    margin-top: 20px;
+    position: relative;
+    left: 770px;
+    top: -550px;
+    font-size: 22px;
+
+}
+.cuadro4{
+    background-color: rgb(124, 15, 202);
+    width: 700px;
+    height: 500px;
+    border-radius: 2%;
+    border: 15px solid #cb81ff;
+    box-shadow: 12px 13px 1px rgb(73, 11, 118);
+    margin-top: 20px;
+    font-size: 22px;
+
+}
+
+.cuadro6{
+    background-color: rgb(124, 15, 202);
+    width: 700px;
+    height: 500px;
+    border-radius: 2%;
+    border: 15px solid #cb81ff;
+    box-shadow: 12px 13px 1px rgb(73, 11, 118);
+    margin-top: 20px;
+    position: relative;
+    left: 770px;
+    top: -1650px;
+    font-size: 22px;
+
+}
+
+.alineacion{
+    width: 600px;
+    position: relative;
+    top: -100px;
+    left: -1px;
+    font-size: 30px;
+}
